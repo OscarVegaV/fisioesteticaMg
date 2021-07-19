@@ -1,0 +1,9 @@
+.barra {
+  border-top: 3px solid rgb(99, 40, 107);
+}
+.footer{
+  background: rgb(99, 40, 107);
+  color:white;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+}
