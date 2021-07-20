@@ -1,5 +1,5 @@
 .navbar {
-  background-color: rgb(99, 40, 107,0.8);
+  background-color: rgb(99, 40, 107,0.9);
   border-bottom-left-radius: 7px;
   border-bottom-right-radius: 7px;
 }
@@ -7,7 +7,7 @@
   border-top: 3px solid rgb(99, 40, 107);
 }
 .footer {
-  background: rgb(99, 40, 107,0.8); 
+  background: rgb(99, 40, 107,0.9); 
   color:white;
   border-top-left-radius: 7px;
   border-top-right-radius: 7px;
@@ -16,8 +16,12 @@
   background: rgb(99, 40, 107);
   color:white;
 }
+.info2 {
+  background-color: rgb(130, 206, 5);
+  color:rgb(99, 40, 107);
+}
 .facebook {
-  color:white;
+  color: rgb(130, 206, 5);
 }
 .imgRound {
   border-radius: 50%;
