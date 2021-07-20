@@ -1,16 +1,25 @@
+.navbar {
+  background-color: rgb(99, 40, 107,0.8);
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
 .barra {
   border-top: 3px solid rgb(99, 40, 107);
 }
-.footer{
-  background: rgb(99, 40, 107);
+.footer {
+  background: rgb(99, 40, 107,0.8); 
   color:white;
   border-top-left-radius: 7px;
   border-top-right-radius: 7px;
 }
-.info{
+.info {
   background: rgb(99, 40, 107);
   color:white;
 }
-.facebook{
+.facebook {
   color:white;
+}
+.imgRound {
+  border-radius: 50%;
+  
 }
